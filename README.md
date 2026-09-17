@@ -30,7 +30,7 @@ This is the engineering home for UBEC's digital systems — the tools that colle
 
 ## Repositories
 
-_No public repositories yet — this space will fill in as DDPA projects are published or open-sourced._
+__
 
 ## Working here
 
